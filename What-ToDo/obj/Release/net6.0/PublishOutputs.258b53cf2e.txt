@@ -1,0 +1,5 @@
+C:\Users\densyo\Desktop\What-ToDo.exe
+C:\Users\densyo\Desktop\What-ToDo.dll
+C:\Users\densyo\Desktop\What-ToDo.deps.json
+C:\Users\densyo\Desktop\What-ToDo.runtimeconfig.json
+C:\Users\densyo\Desktop\What-ToDo.pdb

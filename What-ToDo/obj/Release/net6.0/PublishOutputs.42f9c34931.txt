@@ -1,0 +1,5 @@
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Release\net6.0\publish\What-ToDo.exe
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Release\net6.0\publish\What-ToDo.dll
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Release\net6.0\publish\What-ToDo.deps.json
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Release\net6.0\publish\What-ToDo.runtimeconfig.json
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Release\net6.0\publish\What-ToDo.pdb

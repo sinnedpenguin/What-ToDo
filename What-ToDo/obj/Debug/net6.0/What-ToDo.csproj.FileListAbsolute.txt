@@ -1,0 +1,15 @@
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Debug\net6.0\What-ToDo.exe
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Debug\net6.0\What-ToDo.deps.json
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Debug\net6.0\What-ToDo.runtimeconfig.json
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Debug\net6.0\What-ToDo.dll
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\bin\Debug\net6.0\What-ToDo.pdb
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.csproj.AssemblyReference.cache
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.AssemblyInfoInputs.cache
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.AssemblyInfo.cs
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.csproj.CoreCompileInputs.cache
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.dll
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\refint\What-ToDo.dll
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.pdb
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.genruntimeconfig.cache
+C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\ref\What-ToDo.dll
