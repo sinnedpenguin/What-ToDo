@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ty9bCTxrc3kcPbP93p+9GZsREfFHxRuOFfapAQpnrIEcihKIpl1HptE3Mx1c5S/P4m1AOCMK9V1N8Tt8awoJ/w==",
+  "dgSpecHash": "wTwKWhol1fMVP4y4JxEcsvnsHwHCdl22W5bxIPjt+Za5DFIYYO3kk0hFCPpDFdtmsLELItF8JZMB07wgZH3l0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\densyo\\source\\repos\\What-ToDo\\What-ToDo\\What-ToDo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\densyo\\Source\\Repos\\What-ToDo\\What-ToDo\\What-ToDo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\densyo\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
+    "C:\\Users\\densyo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
   "logs": []
 }

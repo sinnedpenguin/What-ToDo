@@ -13,3 +13,5 @@ C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\refint\What-To
 C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.pdb
 C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.genruntimeconfig.cache
 C:\Users\densyo\source\repos\What-ToDo\What-ToDo\obj\Debug\net6.0\ref\What-ToDo.dll
+C:\Users\densyo\Source\Repos\What-ToDo\What-ToDo\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\densyo\Source\Repos\What-ToDo\What-ToDo\obj\Debug\net6.0\What-ToDo.csproj.CopyComplete
